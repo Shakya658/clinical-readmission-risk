@@ -1,0 +1,10 @@
+jupyter
+notebook
+optuna
+seaborn
+pandas
+numpy
+scikit-learn
+xgboost
+shap
+matplotlib
