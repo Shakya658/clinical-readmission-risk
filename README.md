@@ -103,10 +103,10 @@ The following fields were dropped because their missingness was too high for rel
 - `max_glu_serum`
 - `A1Cresult`
 
-Final modelling dataset:
+Final prepared dataset:
 
 - 66,860 unique patients
-- 46 columns
+- 46 pre-encoding columns, expanding to 95 predictor features after categorical encoding and feature engineering.
 - Zero remaining missing values after preprocessing
 
 ### Feature Engineering
